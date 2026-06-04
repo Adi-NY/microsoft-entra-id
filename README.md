@@ -14,6 +14,25 @@ Built a fully functional Microsoft Entra ID environment using a dedicated Azure 
 | Lab Type | Cloud Identity Management |
 | Users Created | Multiple test users across departments |
 
+## Skills Demonstrated
+- User lifecycle management — creation, modification, password reset
+- Static and Dynamic group management with attribute-based rules
+- Role assignment following least privilege principles
+- MFA enforcement via Conditional Access (modern enterprise standard)
+- Security monitoring through sign-in and audit logs
+- Account lockout identification and recovery
+- Self-Service Password Reset (SSPR) configuration
+- Entra ID device join and cloud-native device management
+
+## Real World Application
+| Lab Task | Real World Scenario |
+|----------|-------------------|
+| Dynamic group by location | Auto-assign branch staff to correct access groups |
+| Conditional Access MFA | Enforce MFA for staff accessing sensitive systems |
+| Sign-in log monitoring | Detect unauthorized access attempts |
+| SSPR configuration | Reduce helpdesk tickets for password resets |
+| Account lockout recovery | Staff locked out before shift starts |
+| Entra ID device join | Deploy workstation without on-premise infrastructure |
 <h2>Program walk-through:</h2>
 
 <p align="center">
