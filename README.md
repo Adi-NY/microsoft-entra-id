@@ -15,7 +15,7 @@ Built a fully functional Microsoft Entra ID environment using a dedicated Azure 
 | Users Created | Multiple test users across departments |
 
 ## Skills Demonstrated
-- User lifecycle management — creation, modification, password reset
+- User lifecycle management - creation, modification, password reset
 - Static and Dynamic group management with attribute-based rules
 - Role assignment following least privilege principles
 - MFA enforcement via Conditional Access (modern enterprise standard)
