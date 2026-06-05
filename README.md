@@ -37,79 +37,79 @@ Built a fully functional Microsoft Entra ID environment using a dedicated Azure 
 
 <p align="center">
 Creating a User in Microsoft Entra: <br/>
-<img src="https://i.imgur.com/CySqvUS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CySqvUS.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 Creating 365 Variant of Group(Departments)  <br/>
-<img src="https://i.imgur.com/YqiWWcI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YqiWWcI.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 Creating Dynamic Groups:  <br/>
-<img src="https://i.imgur.com/uSNJBfi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uSNJBfi.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 Creating Dynamic Group Logic that assigns employees from one location to a group:  <br/>
-<img src="https://i.imgur.com/etm4fzp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/etm4fzp.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 Overview of Groups Created <br/>
-<img src="https://i.imgur.com/RapKNJ5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RapKNJ5.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 Assigning Azure Role (Role Delegation):  <br/>
-<img src="https://i.imgur.com/Y5qzhM0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y5qzhM0.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />  
 Adding Users to Departments/Groups:  <br/>
-<img src="https://i.imgur.com/Zdt7AyI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zdt7AyI.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 Enforcing Password Policy:  <br/>
-<img src="https://i.imgur.com/noYsaa5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/noYsaa5.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br /> 
 Enabling Conditional Access Policy (MFA):  <br/>
-<img src="https://i.imgur.com/pbc0D6G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pbc0D6G.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 Multi-Factor Authentication (MFA) In Effect  <br/>
-<img src="https://i.imgur.com/OpTixeQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OpTixeQ.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 Logging in as Domain Client (Password Policy in Effect):  <br/>
-<img src="https://i.imgur.com/NxShSYh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NxShSYh.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 Client PC Connected to Domain:  <br/>
-<img src="https://i.imgur.com/AjWaPzp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AjWaPzp.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 User Sign-in Logs (Entering Wrong Password):  <br/>
-<img src="https://i.imgur.com/PeB5hQR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PeB5hQR.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 User Sign-in Logs (Confirming Authentication):  <br/>
-<img src="https://i.imgur.com/XJbd5cY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XJbd5cY.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 Account Lockout Simulation:  <br/>
-<img src="https://i.imgur.com/jc4zYk3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jc4zYk3.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 Resetting Account Password:  <br/>
-<img src="https://i.imgur.com/HIjvsH8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HIjvsH8.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />
 Self Service Password Reset (SSPR) Setup:  <br/>
-<img src="https://i.imgur.com/qwxYVoc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qwxYVoc.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br />  
 Self Service Password Reset (SSPR) Setup 2:  <br/>
-<img src="https://i.imgur.com/ZRkvLis.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZRkvLis.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 <br />
 <br /> 
 Devices assigned to Domain/Managed by Company:  <br/>
-<img src="https://i.imgur.com/c6vM4Ej.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c6vM4Ej.png" height="80%" width="80%" alt="Microsoft Entra ID"/>
 </p>
 
 <!--
